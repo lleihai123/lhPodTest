@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E0FCCCA98C58D817D14924C1887C1BE96748DFBE" : 0,
+    "AC14536C00B73B2BA4B9EF2A9B7D3B54FD4CD44C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2A5D36EE-C123-4CED-BCA0-1C2591DD0FE5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E0FCCCA98C58D817D14924C1887C1BE96748DFBE" : "..\/..\/..\/..",
+    "AC14536C00B73B2BA4B9EF2A9B7D3B54FD4CD44C" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PodTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PodTest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lleihai123\/-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC14536C00B73B2BA4B9EF2A9B7D3B54FD4CD44C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YouXianMing\/StatusBarMessage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E0FCCCA98C58D817D14924C1887C1BE96748DFBE"
+    }
+  ]
+}
